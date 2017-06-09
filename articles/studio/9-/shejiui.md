@@ -38,7 +38,23 @@
 
 ![](/articles/studio/9-/images/image107.png)
 
-![](/articles/studio/9-/images/image180.png)
+**注意**：
+
+→ 移动应用开发平台提供了属性配置,开发者可在应用中根据需要灵活添加修改控件库，所以在使用如二维码、地图等控件时，需要在工程上选择需要的控件库。否则应用会出现闪退情况。具体操作步骤如下: 
+
+1、在UAP Mobile Explorer视图窗口中选择配置项目后,点击鼠标右键, 如下图:
+
+![](/articles/studio/9-/images/image108.png)
+
+ 
+2、在属性配置窗口的UAP Mobile Settings→Native Natures窗口中进行控件选择， 如下图：
+
+![](/articles/studio/9-/images/image109.png)
+
+ 
+→ 在Andorid开发环境下移动地图控件支持Baidu地图, 在iOS下支持的是高德地图。在使用地图控件时，需要开发者首先注册地图 key，否则地图控件将不能正常使用。申请注册地图key操作步骤详细, 可参考Baidu地图开发官方网站 ( http://developer.baidu.com/map/ ) 。
+
+
 
 ## 设置UI控件属性
 
@@ -108,7 +124,7 @@
 
 
 
- 
+ 
 
 
 
