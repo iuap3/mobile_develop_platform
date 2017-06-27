@@ -1,6 +1,5 @@
 # Table of content
 
-* [Introduction](README.md)
 * [产品介绍](chan-pin-jie-shao.md)
   * [产品概述](articles/studio/1-/gaishu.md)
   * [产品优势](articles/studio/1-/adv.md)
