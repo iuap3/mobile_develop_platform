@@ -1,7 +1,11 @@
-# Summary
+# Table of content
 
+<<<<<<< HEAD
 * [Introduction](README.md)
 * 产品介绍
+=======
+* [产品介绍](chan-pin-jie-shao.md)
+>>>>>>> 9127fcc39ea270496da834a15cdd97e5048e5c56
   * [产品概述](articles/studio/1-/gaishu.md)
   * [产品优势](articles/studio/1-/adv.md)
   * [应用场景](articles/studio/1-/scene.md)
@@ -21,7 +25,11 @@
   * [平台资源](articles/studio/5-/ziyuan.md)
   * [工程目录说明](articles/studio/5-/mulu.md)
   * [MA SERVER](articles/studio/2-/server.md)
+<<<<<<< HEAD
 * [业务实体模型设计器](ye-wu-shi-ti-mo-xing-she-ji-qi.md)
+=======
+* 业务实体模型设计器
+>>>>>>> 9127fcc39ea270496da834a15cdd97e5048e5c56
   * [MBE企业版](articles/studio/6-/yewushiti.md)
   * [打开MBE设计器](articles/studio/6-/dakai.md)
   * [设计MBE](articles/studio/6-/sheji.md)
