@@ -21,7 +21,7 @@
   * [平台资源](articles/studio/5-/ziyuan.md)
   * [工程目录说明](articles/studio/5-/mulu.md)
   * [MA SERVER](articles/studio/2-/server.md)
-* 业务实体模型设计器
+* [业务实体模型设计器](ye-wu-shi-ti-mo-xing-she-ji-qi.md)
   * [MBE企业版](articles/studio/6-/yewushiti.md)
   * [打开MBE设计器](articles/studio/6-/dakai.md)
   * [设计MBE](articles/studio/6-/sheji.md)
