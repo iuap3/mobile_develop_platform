@@ -1,4 +1,4 @@
-# Table of content
+# 移动开发平台
 
 * [产品介绍]()
   * [产品概述](articles/studio/1-/gaishu.md)
