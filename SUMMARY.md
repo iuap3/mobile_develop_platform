@@ -12,8 +12,7 @@
   * [初始配置](articles/studio/3-/chushi.md)
   * [登录](articles/studio/3-/denglu.md)
   * [关键参数配置](articles/studio/3-/guanjian.md)
-* 用户手册
-  * [创建项目](articles/studio/5-/chuangjian.md)
+* 创建项目
   * [新建项目](articles/studio/5-/xinjian.md)
   * [选择模板类型](articles/studio/5-/xuanze.md)
   * [平台关键视图](articles/studio/5-/shitu.md)
