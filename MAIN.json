@@ -1,0 +1,34 @@
+{ 
+ "title": "移动开发平台", 
+ "desc": "用友iuap mobile的移动开发平台基于eclipse mars，易于使用，便于开发管理。开发者使用开发平台，基
+
+于模型驱动开发，易于行业和水平扩展。iuap mobile开发平台提供可视化的模型设计工具，包括业务模型、UI模型。
+
+同时，开发平台还提供可视化的、所见即所得的UI设计、丰富的模板，方便开发者快速构建移动应用。开发者具备
+
+javascript、html、css技能即可开发移动应用，学习成本低。另外，用友iuap mobile提供云开发模式，支持一次开发
+
+多终端运行。", 
+ "list": [ 
+ { 
+ "title": "快速入门", 
+ "link": "#/md-build/mobile_develop_platform/articles/studio/2-/yunxing.md", 
+ "desc": "本文介绍了从应用开发流程到关键参数配置的内容" 
+ }, 
+ { 
+ "title": "创建项目", 
+ "link": "#/md-build/mobile_develop_platform/articles/studio/5-/xinjian.md", 
+ "desc": "讲解了创建项目的具体功能" 
+ }, 
+ { 
+ "title": "业务实体模型设计器", 
+ "link": "#/md-build/mobile_develop_platform/articles/studio/6-/yewushiti.md", 
+ "desc": "讲解了业务实体模型设计器的具体内容" 
+ }, 
+ { 
+ "title": "CONTEXT模型设计器", 
+ "link": "#/md-build/mobile_develop_platform/articles/studio/8-/shejiqi.md", 
+ "desc": "讲解了CONTEXT模型设计器的具体内容" 
+ } 
+ ] 
+ } 
